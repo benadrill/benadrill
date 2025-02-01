@@ -1,16 +1,19 @@
-## Hi there 👋
+## stacklist
 
-<!--
-**benadrill/benadrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# current projects
+- bennymw
+# ambitions
+- learn x86 assembly
+- learn osdev
+- learn webdev
+- learn networking
+- learn electrical engineering n telecomms and other nerd shit
+- learn mandarin or japanese or russian
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# interests
+- xiaomi bunny
+- military
+- yume nikki
+- bideo game hacking
+- reverse engineering
+- sound engineering and mod scene
