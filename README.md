@@ -7,13 +7,9 @@
 - learn osdev
 - learn webdev
 - learn networking
-- learn electrical engineering n telecomms and other nerd shit
-- learn mandarin or japanese or russian
-
+- learn arduino or michael reeves type shit
+- 
 # interests
-- xiaomi bunny
-- military
-- yume nikki
 - bideo game hacking
-- reverse engineering
-- sound engineering and mod scene
+- game development
+- sound design or something
