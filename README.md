@@ -7,8 +7,9 @@
 - learn osdev
 - learn webdev
 - learn networking
-- learn arduino or michael reeves type shit
-- 
+- learn arduino
+- buy a 3d printer
+- **a job**
 # interests
 - bideo game hacking
 - game development
